@@ -3,21 +3,6 @@ title: Term Dates
 order: 8
 ---
 
-<!-- ### Autumn Term 2022
-
-|                   |                                           |
-| ----------------- | ----------------------------------------- |
-| First day of term | Monday 5th September                      |
-| Half Term         | Monday 24th October – Friday 28th October |
-| Last day of term  | Friday 16th December                      | -->
-
-<!-- ### Spring Term 2023
-
-|                   |                                             |
-| ----------------- | ------------------------------------------- |
-| First day of term | Tuesday 3rd January                         |
-| Half Term         | Monday 13th February – Friday 17th February |
-| Last day of term  | Friday 31st March                           | --> | -->
 
 ### Summer Term 2023
 
@@ -27,6 +12,32 @@ order: 8
 | Bank Holiday      | Monday 1st May                    |
 | Half Term         | Monday 29th May – Friday 2nd June |
 | Last day of term  | Friday 14th July                  |
+
+### Autumn Term 2023
+
+|                   |                                           |
+| ----------------- | ----------------------------------------- |
+| First day of term | Monday 4th September                      |
+| Half Term         | Monday 23th October – Friday 27th October |
+| Christmas Party   | Friday 15th December                      |
+| Last day of term  | Friday 15th December                      |
+
+### Spring Term 2024
+
+|                   |                                             |
+| ----------------- | ------------------------------------------- |
+| First day of term | Tuesday 2rd January                         |
+| Half Term         | Monday 12th February – Friday 16th February |
+| Last day of term  | Thursday 28st March                         |
+
+### Summer Term 2024
+
+|                   |                                           |
+| ----------------- | ----------------------------------------- |
+| First day of term | Monday 15th April                         |
+| Half Term         | Monday 27th May – Friday 31st May         |
+| Graduation Day    | Friday 12th July                          |
+| Last day of term  | Friday 12th July                          |
 
 ### Sessions
 
