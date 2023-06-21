@@ -14,15 +14,11 @@ order: 4
 
 Fees are due in by the end of the second week of the term. Unfortunately, we are unable to give refunds if for any reason a child is unable to attend. If fees are not paid promptly, the committee reserve the right to refuse your child a place.
 
-We are happy to take online payments (please show the name of child) or Employee Childcare Vouchers Fees (these usually provide tax savings). We are registered with a range of voucher providers. We can provide further information on request.
-
-If you pay by cash or cheque then these should always be in a sealed envelope with your child’s name clearly marked on the front. Please also write ‘fees’ on the front of the envelope.
+We have made all payments super easy, once your child is registered and confirmed in the setting, you will receive your invoice for the coming term, then your payments can be made via bank transfer or using the [Famly app](https://www.famly.co/software/download) and Famly pay, if you would like to set up a regular payment plan or pay using other methods please contact the [office](mailto:office@southwatervillagepreschool.org).
 
 ### Lunch Link
 
 ![children activity](../../images/086.jpg)
-
-<!-- We have introduced a Lunch Link session for over 3s, which provides the option for children to eat their lunch at Pre-School. The experience of eating lunch in the Pre-School setting helps to develop children’s social skills and independence before they move on to ‘big school’. -->
 
 Attending Lunch Link gives the opportunity to attend Pre-School for the whole day or a longer morning/afternoon session on a Monday, Tuesday or Thursday.
 
