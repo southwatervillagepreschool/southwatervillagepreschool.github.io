@@ -3,14 +3,14 @@ title: Fees
 order: 4
 ---
 
-### Fees for under 3s and for children accessing hours above the funded 15 hours from September 2022
+### Fees for under 3s and for children accessing hours above the funded 15 hours from September 2023
 
 |                   |        |
 | ----------------- | ------ |
-| Morning Session   | £19.50 |
+| Morning Session   | £20.00 |
 | Lunch Link        | £7.00  |
-| Afternoon Session | £19.50 |
-| Adhoc Session     | £19.50 |
+| Afternoon Session | £20.00 |
+| Adhoc Session     | £20.00 |
 
 Fees are due in by the end of the second week of the term. Unfortunately, we are unable to give refunds if for any reason a child is unable to attend. If fees are not paid promptly, the committee reserve the right to refuse your child a place.
 
