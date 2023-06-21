@@ -17,6 +17,4 @@ A daily staff rota is displayed on the parent notice board in the preschool.
 | Key Person Assistant                                          | Irene Slade              |
 | Key Person Assistant                                          | Sarah Naylor             |
 | Key Person Assistant                                          | Georgina Palmer          |
-
-<!-- https://youtu.be/MCl-iClRo9k -->
-<!-- | Deputy Manager, SENCO, Designated Safeguarding and Child Protection Person             | Emma Buckland            | -->
+| Key Person Assistant                                          | Imogen Leake             |
