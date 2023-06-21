@@ -30,8 +30,6 @@ In line with the current guidelines regarding funding, children are fully funded
 
 ### Policies
 
-[Universal Free Entitlement Funding Policy 2022](/universal_free_entitlement_2022.pdf)
+[Universal Free Entitlement Funding Policy](https://southwatervillagepreschool.sharepoint.com/:b:/s/public/EQroG3-xTg9IpzK3XaB3ZhABCtcIXIY7oQ5ai7IhxLPIVw?e=ehnmRd)
 
-[Schedule of Fees Policy 2022-2023](/schedule_of_fees_2022-2023.pdf)
-
-[Fees and Payments Policy 2022](/fees_and_payments_policy_2022.pdf)
+[Fees and Payments Policy 2022](https://southwatervillagepreschool.sharepoint.com/:b:/s/public/EdL6EODHyZlBp751jHnrRJQB5T3BG5MCwPcV2olKDlKXeQ?e=QmNVaS)
