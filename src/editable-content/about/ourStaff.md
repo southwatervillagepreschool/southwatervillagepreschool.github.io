@@ -1,6 +1,6 @@
 ---
 title: our staff
-image: 005.jpg
+image: 001.jpg
 order: 6
 ---
 

@@ -28,7 +28,7 @@ const About = () => {
           }
         }
       }
-      file(relativePath: { eq: "037.jpg" }) {
+      file(relativePath: { eq: "2023_1.png" }) {
         childImageSharp {
           fluid {
             ...GatsbyImageSharpFluid

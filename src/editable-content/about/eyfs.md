@@ -1,6 +1,7 @@
 ---
 title: early years foundation stage (EYFS)
 order: 3
+image: 001.jpg
 ---
 
 The provisions for children’s development and learning is guided by the Early Years Foundation Stage (DfE 2021). Our provision reflects the four overarching principles of the Statutory Framework for the Early Years Foundation Stage.

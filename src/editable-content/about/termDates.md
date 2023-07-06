@@ -1,6 +1,7 @@
 ---
 title: Term Dates
 order: 8
+image: 001.jpg
 ---
 
 
@@ -8,9 +9,6 @@ order: 8
 
 |                   |                                   |
 | ----------------- | --------------------------------- |
-| First day of term | Monday 17th April                 |
-| Bank Holiday      | Monday 1st May                    |
-| Half Term         | Monday 29th May – Friday 2nd June |
 | Last day of term  | Friday 14th July                  |
 
 ### Autumn Term 2023

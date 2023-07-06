@@ -2,6 +2,7 @@
 title: virtual tour
 order: 0
 hideHero: true
+image: 001.jpg
 ---
 
 <div class='video-wrapper'>

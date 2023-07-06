@@ -1,6 +1,6 @@
 ---
 title: about us
-image: 001.jpg
+image: 2023_1.png
 order: 1
 ---
 
