@@ -1,6 +1,7 @@
 ---
 title: Fees
-order: 4
+order: 2
+image: 001.jpg
 ---
 
 ### Fees for under 3s and for children accessing hours above the funded 15 hours from September 2023
