@@ -10,6 +10,8 @@ order: 7
 
 Once this is complete children can then free flow inside or outside exploring the environment. Inside the children have a wide range of toys available as well as adult lead activities. Staff follow children’s interests to input into planning and cover all areas of learning and we follow 2 weekly themes. Outside has a wide range of physical activities, gardening we plant fruits and vegetables as well as various flowers throughout the year and we also have the outdoor classroom.
 
+![activity - fire engine visits the preschool](../../images/fireengine-svhps.webp)
+
 Snack is free flow and between 10am and 11am.
 
 12pm – we encourage the children to tidy up we come together on the mat to sing our goodbye song.
