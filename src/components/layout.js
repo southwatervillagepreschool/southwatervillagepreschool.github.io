@@ -9,6 +9,7 @@ import Header from "./Header"
 import Footer from "./footer"
 import NavFlyout from "./NavFlyout"
 import OfstedLogo from "./ofsted-logo"
+import SencoLogo from './senco_logo'
 
 const Layout = ({ children }) => {
   const { pathname } = useLocation()
@@ -28,6 +29,7 @@ const Layout = ({ children }) => {
       <Header />
       <main>{children}</main>
       <OfstedLogo />
+      <SencoLogo/>
       <Footer />
     </div>
   )
