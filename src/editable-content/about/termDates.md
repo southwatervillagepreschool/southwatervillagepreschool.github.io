@@ -5,11 +5,11 @@ image: 001.jpg
 ---
 
 
-### Summer Term 2023
+<!-- ### Summer Term 2023
 
 |                   |                                   |
 | ----------------- | --------------------------------- |
-| Last day of term  | Friday 14th July                  |
+| Last day of term  | Friday 14th July                  | -->
 
 ### Autumn Term 2023
 
