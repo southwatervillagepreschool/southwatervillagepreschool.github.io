@@ -2,7 +2,7 @@
 title: Open Day
 date: 2023-05-15
 author: none
-order: 1
+order: 0
 ---
 
 Our next Open Day will be in the Autumn term 2023, this is your chance to explore our exceptional facilities and see what sets our preschool apart.
