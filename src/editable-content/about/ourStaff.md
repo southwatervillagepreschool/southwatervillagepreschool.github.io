@@ -11,8 +11,8 @@ A daily staff rota is displayed on the parent notice board in the preschool.
 |                                                                       |                     |
 | --------------------------------------------------------------------- | ------------------- |
 | Manager, SENCO                                                        | Emma Buckland       |
-| Deputy Manager , Designated Safeguarding and Child Protection Officer | Hannah Green        |
-| Leader and Health and safety officer                                  | Georgina Palmer     |
+| Deputy Manager, Designated safeguarding lead and Health and Safety Officer   |  Georgina Palmer    | 
+| Leader                           | Hannah Green        |
 | Key Person Assistant                                                  | Claire Tugwell      |
 | Key Person Assistant                                                  | Irene Slade         |
 | Key Person Assistant                                                  | Sarah Naylor        |
