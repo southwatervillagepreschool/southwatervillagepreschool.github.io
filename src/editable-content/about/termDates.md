@@ -11,38 +11,38 @@ image: 001.jpg
 | ----------------- | --------------------------------- |
 | Last day of term  | Friday 14th July                  | -->
 
-### Autumn Term 2023
+### Autumn Term 2024
 
 |                   |                                           |
 | ----------------- | ----------------------------------------- |
-| First day of term | Monday 4th September                      |
-| Half Term         | Monday 23th October – Friday 27th October |
-| Christmas Party   | Friday 15th December                      |
-| Last day of term  | Friday 15th December                      |
+| First day of term | Monday 9th September                      |
+| Half Term         | Monday 28th October – Friday 1st November |
+| Christmas Party   | Friday 20th December                      |
+| Last day of term  | Friday 20th December                      |
 
-### Spring Term 2024
+### Spring Term 2025
 
 |                   |                                             |
 | ----------------- | ------------------------------------------- |
-| First day of term | Tuesday 2rd January                         |
-| Half Term         | Monday 12th February – Friday 16th February |
-| Last day of term  | Thursday 28st March                         |
+| First day of term | Tuesday 6th January                         |
+| Half Term         | Monday 17th February – Friday 21st February |
+| Last day of term  | Friday 4th April                            |
 
-### Summer Term 2024
+### Summer Term 2025
 
 |                   |                                           |
 | ----------------- | ----------------------------------------- |
-| First day of term | Monday 15th April                         |
-| Half Term         | Monday 27th May – Friday 31st May         |
-| Graduation Day    | Friday 12th July                          |
-| Last day of term  | Friday 12th July                          |
+| First day of term | Monday 22nd April                         |
+| Half Term         | Monday 26th May – Friday 30th May         |
+| Graduation Day    | Friday 18th July                          |
+| Last day of term  | Friday 18th July                          |
 
 ### Sessions
 
 | Day       | AM               | Lunch Link    | PM              |
 | --------- | ---------------- | ------------- | --------------- |
-| Monday    | 9.15am – 12.15pm | 12.15pm – 1pm | 1.00pm – 4.00pm |
-| Tuesday   | 9.15am – 12.15pm | 12.15pm – 1pm | 1.00pm – 4.00pm |
-| Wednesday | 9.15am – 12.15pm | N/A           | No session      |
-| Thursday  | 9.15am – 12.15pm | 12.15pm – 1pm | 1.00pm – 4.00pm |
-| Friday    | 9.15am – 12.15pm | N/A           | No session      |
+| Monday    | 9.00am – 12.15pm | 12pm – 1pm    | 1.00pm – 4.00pm |
+| Tuesday   | 9.00am – 12.15pm | 12pm – 1pm    | 1.00pm – 4.00pm |
+| Wednesday | 9.00am – 12.15pm | N/A           | No session      |
+| Thursday  | 9.00am – 12.15pm | 12pm – 1pm    | 1.00pm – 4.00pm |
+| Friday    | 9.00am – 12.15pm | N/A           | No session      |
