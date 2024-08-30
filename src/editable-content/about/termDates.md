@@ -41,8 +41,8 @@ image: 001.jpg
 
 | Day       | AM               | Lunch Link    | PM              |
 | --------- | ---------------- | ------------- | --------------- |
-| Monday    | 9.00am – 12.15pm | 12pm – 1pm    | 1.00pm – 4.00pm |
-| Tuesday   | 9.00am – 12.15pm | 12pm – 1pm    | 1.00pm – 4.00pm |
-| Wednesday | 9.00am – 12.15pm | N/A           | No session      |
-| Thursday  | 9.00am – 12.15pm | 12pm – 1pm    | 1.00pm – 4.00pm |
-| Friday    | 9.00am – 12.15pm | N/A           | No session      |
+| Monday    | 9.00am – 12pm | 12pm – 1pm    | 1.00pm – 4.00pm |
+| Tuesday   | 9.00am – 12pm | 12pm – 1pm    | 1.00pm – 4.00pm |
+| Wednesday | 9.00am – 12pm | N/A           | No session      |
+| Thursday  | 9.00am – 12pm | 12pm – 1pm    | 1.00pm – 4.00pm |
+| Friday    | 9.00am – 12pm | N/A           | No session      |
