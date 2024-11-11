@@ -2,12 +2,12 @@ import React from "react"
 import { Link } from "gatsby"
 
 // import logo from "../images/logo-square-no-words.png"
-import logo from "../images/logo-square-transparent.svg"
+import logo from "../images/2024-logo.png"
 const Footer = () => {
   return (
     <footer>
       <img
-        style={{ height: "80px", width: "80px" }}
+        style={{ height: "80px", width: "80px" ,padding:'4px' }}
         src={logo}
         alt=""
         className="logo"
@@ -19,7 +19,7 @@ const Footer = () => {
         <Link to="/news">News</Link>
         <Link to="/contact">Contact</Link>
       </nav>
-      <p>&copy; 2022 Southwater Village Hall Preschool</p>
+      <p>&copy; 2024 Southwater Village Hall Pre-school</p>
       <p>Registered Charity 1027293</p>
     </footer>
   )

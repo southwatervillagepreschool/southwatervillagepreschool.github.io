@@ -109,7 +109,7 @@ const Nav = styled.nav`
 
   li:hover,
   li:focus-within {
-    background: rgb(184, 7, 42);
+    background: #a046b9;
     cursor: pointer;
     /* color: white; */
   }

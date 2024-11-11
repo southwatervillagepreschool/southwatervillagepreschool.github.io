@@ -8,9 +8,9 @@
   --elements-headline: #0d0d0d;
   --elements-paragraph: ##2a2a2a;
   /* --color-primary: #ff8e3c; */
-  --color-primary: rgb(184, 7, 42);
+  --color-primary:  #a046b9;
   --color-primary-text: #0d0d0d;
-  --color-secondary: #fffffe;
+  --color-secondary: #fada37;
   --color-tertiary: #ff8e3c;
   --color-stroke: #0d0d0d;
   --elements-main: #eff0f3;
@@ -55,7 +55,7 @@
   --color-hover-text: var(--color-gray-1000);
 
   /* Type */
-  --font-heading-font: "Hind", sans-serif;
+  --font-heading-font: "Quicksand", sans-serif;
   --font-body-font: "Roboto", sans-serif;
 
   --font-base-font-size: 100%;

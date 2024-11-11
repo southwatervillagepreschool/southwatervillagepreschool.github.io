@@ -5,7 +5,8 @@ import { Link } from "gatsby"
 import MenuButton from "./MenuButton"
 import NavLargeScreens from "./NavLargeScreens"
 // import Logo from './logo'
-import logo from "../images/logo-square-transparent.svg"
+import logo from "../images/2024-logo.png"
+// import logo from "../images/logo-square-transparent.svg"
 
 const Header = () => {
   return (
@@ -17,7 +18,9 @@ const Header = () => {
         className="logo"
       />
       <Link to="/">
-        <h1>Southwater Village Hall Preschool</h1>
+        <h1 style={{ color: "var(--color-primary)" }}>
+          Southwater Village Hall Pre-school
+        </h1>
       </Link>
       <MenuButton />
       <NavLargeScreens />

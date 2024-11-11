@@ -39,6 +39,7 @@
     "redux-devtools-extension": "^2.13.8",
     "styled-components": "^5.2.0",
     "typeface-hind": "^1.1.13",
+    "typeface-quicksand": "^1.1.13",
     "typeface-roboto": "^1.1.13"
   },
   "devDependencies": {
@@ -51,5 +52,9 @@
   },
   "bugs": {
     "url": "https://southwatervillagepreschool.github.io/svhps2020web/issues"
-  }
+  },
+  "engines": {
+        "node": ">=16",
+        "pnpm": ">=8"
+    }
 }

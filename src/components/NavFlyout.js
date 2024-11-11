@@ -151,7 +151,7 @@ const Container = styled.div`
   box-sizing: border-box;
 
   /* background: #ff5a46; */
-  background: rgb(184, 7, 42);
+  background: #a046b9;
   width: 50vw;
   height: 100vh;
   left: +100vw;
