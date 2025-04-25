@@ -11,12 +11,16 @@ A daily staff rota is displayed on the parent notice board in the preschool.
 |                                                                            |                     |
 | -------------------------------------------------------------------------- | ------------------- |
 | Manager, SENCO                                                             | Emma Buckland       |
-| Deputy Manager, Designated safeguarding lead and Health and Safety Officer |  Georgia Palmer     | 
+| Deputy Manager, Designated safeguarding lead and Health and Safety Officer | Georgia Palmer     | 
 | Leader                                                                     | Hannah Green        |
-| Leader                                                                     | Imogen Leake        |
-| Key Person Assistant                                                       | Irene Slade         |
-| Key Person Assistant                                                       | Sarah Naylor        |
+| Key Person Assistant                                                       | Irene Slade |
+| Key Person Assistant                                                       |  Mary Miller |
+| Key Person Assistant                                                       | Mel Edwards |
+| Key Person Assistant                                                       |  Natalie Denman |
+| Key Person Assistant                                                       | Nicola Denman |
+| Key Person Assistant                                                       | Rebecca Perrin |
+| Key Person Assistant                                                       | Sarah Naylor |
 | Key Person Assistant                                                       | Stella Dean-Greener |
-| Key Person Assistant                                                       | Rose Blanch         |
-| Key Person Assistant                                                       | Rosemary Jennings   |
-| Key Person Assistant                                                       | Natalie Denman      |
+| Key Person Assistant                                                       |  Zoe Hartley |
+| Bank Staff                                                                 | Lucy Brailey |
+| Bank Staff                                                                 | Matilda Richardson |
