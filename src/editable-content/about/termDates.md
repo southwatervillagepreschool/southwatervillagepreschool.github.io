@@ -10,7 +10,7 @@ image: 001.jpg
 |                   |                                   |
 | ----------------- | --------------------------------- |
 | Last day of term  | Friday 14th July                  | -->
-
+<!-- 
 ### Autumn Term 2024
 
 |                   |                                           |
@@ -26,7 +26,7 @@ image: 001.jpg
 | ----------------- | ------------------------------------------- |
 | First day of term | Tuesday 6th January                         |
 | Half Term         | Monday 17th February – Friday 21st February |
-| Last day of term  | Friday 4th April                            |
+| Last day of term  | Friday 4th April                            | -->
 
 ### Summer Term 2025
 
