@@ -17,7 +17,7 @@ A daily staff rota is displayed on the parent notice board in the preschool.
 | Key Person Assistant                                                       |  Mary Miller |
 | Key Person Assistant                                                       | Mel Edwards |
 | Key Person Assistant                                                       |  Natalie Denman |
-| Key Person Assistant                                                       | Nicola Denman |
+| Key Person Assistant                                                       | Nicola Fletcher|
 | Key Person Assistant                                                       | Rebecca Perrin |
 | Key Person Assistant                                                       | Sarah Naylor |
 | Key Person Assistant                                                       | Stella Dean-Greener |

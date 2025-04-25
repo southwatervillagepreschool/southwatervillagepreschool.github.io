@@ -37,7 +37,37 @@ image: 001.jpg
 | Graduation Day    | Friday 18th July                          |
 | Last day of term  | Friday 18th July                          |
 
-### Sessions
+
+
+
+### Autumn Term 2025
+
+|                   |                                           |
+| ----------------- | ----------------------------------------- |
+| First day of term | Monday 8th September                      |
+| Half Term         | Monday 27th October – Friday 31st October |
+| Christmas Party   | Friday 19th December                      |
+| Last day of term  | Friday 19th December                      |
+
+### Spring Term 2026
+
+|                   |                                             |
+| ----------------- | ------------------------------------------- |
+| First day of term | Tuesday 5th January                         |
+| Half Term         | Monday 16th February – Friday 20th February |
+| Last day of term  | Friday 27th March                           |
+
+### Summer Term 2025
+
+|                   |                                           |
+| ----------------- | ----------------------------------------- |
+| First day of term | Monday 13th April                         |
+| Bank Holiday      | Monday 4th May                            |
+| Half Term         | Monday 25th May – Friday 29th May         |
+| Graduation Day    | Friday 17th July                          |
+| Last day of term  | Friday 17th July                          |
+
+### Session Times
 
 | Day       | AM               | Lunch Link    | PM              |
 | --------- | ---------------- | ------------- | --------------- |
